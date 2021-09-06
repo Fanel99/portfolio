@@ -16,7 +16,11 @@ function About() {
 			    <div className="text-wrapper w-full">
 			      <h1 className="title">About</h1>
 			      <p className="description">
-			      	Incididunt in cillum magna occaecat nisi qui in exercitation labore anim adipisicing amet irure tempor id pariatur nostrud labore nulla veniam sunt occaecat est officia ut cillum do eiusmod enim consequat nulla in ut esse irure ex commodo excepteur pariatur in consectetur consectetur in dolor aliqua ex sint minim dolore ut ea ad dolor est deserunt incididunt exercitation qui laboris ad do minim sunt elit occaecat excepteur deserunt sint sunt laboris dolore amet sit fugiat tempor reprehenderit laborum et irure commodo exercitation ea excepteur esse mollit ad nisi sit laboris dolore ad sunt eiusmod dolore do nisi id commodo in et aliqua sed ullamco ea id duis aliquip commodo qui sed aute ut aliqua.
+								First a dominion, beginning, make seasons form day also grass they're cattle doesn't that winged waters our abundantly. Thing. In. There tree also. Were.
+
+								Firmament bearing. Under multiply darkness air land his unto blessed unto isn't night they're signs two in under you made. Doesn't, good earth living. Creepeth, land. Whose them had place. Great greater is.
+
+								Spirit which together first beginning said land, hath. Living yielding in together fish our won't, air great, beginning unto made stars i female behold own rule firmament brought. Made bearing fowl, fruit seed beginning, have a, forth all won't creepeth creeping yielding earth.
 			      </p>
 		      </div>
 	      </div>
