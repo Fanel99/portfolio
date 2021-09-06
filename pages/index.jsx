@@ -14,8 +14,8 @@ function Home() {
       <section className="hero">
         <div className="container">
           <div className="text-wrapper">
-            <h1 className="title">Fanel seorang pekerja lepas pengembang web, fotograper, desainer antarmuka pengguna, dan penulis.</h1>
-            <p className="description">.</p>
+            <h1 className="title">Heya Fanel</h1>
+            <p className="description">Pexels. Pexels – free image search. ...</p>
 
             <Link href="/contact"><a className="cta">Kontak Fanel</a></Link>
           </div>
