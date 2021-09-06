@@ -15,7 +15,7 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 className="title">Heya Fanel</h1>
-            <p className="description">Pexels. Pexels – free image search. ...</p>
+            <p className="description">Pexels. Pexels – free image search. ... Firmament bearing. Under multiply darkness air land his unto blessed unto isn't night </p>
 
             <Link href="/contact"><a className="cta">Kontak Fanel</a></Link>
           </div>
