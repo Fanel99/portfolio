@@ -17,7 +17,7 @@ function Home() {
             <h1 className="title">Halo, saya Fanel</h1>
             <p className="description">Saya seorang pekerja lepas pengembang web, fotograper, desainer antarmuka pengguna, dan penulis.</p>
 
-            <Link href="/contact"><a className="cta">Kontak Saya</a></Link>
+            <Link href="/contact"><a className="cta">Kontak Fanel</a></Link>
           </div>
 
           <div className="image-wrapper">
